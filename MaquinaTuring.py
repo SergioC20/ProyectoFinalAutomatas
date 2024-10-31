@@ -109,8 +109,8 @@ class MaquinaTuring2Cintas:
         
         # Procesar de derecha a izquierda
         print("\nLectura de Derecha a Izquierda:")
-        print(f"Cinta 1 (posiciones impares): {' ← '.join(reversed(list(cinta1)))}")
-        print(f"Cinta 2 (posiciones pares):   {' ← '.join(reversed(list(cinta2)))}")
+        print(f"Cinta 1 (posiciones impares): {' → '.join(reversed(list(cinta1)))}")
+        print(f"Cinta 2 (posiciones pares):   {' → '.join(reversed(list(cinta2)))}")
 
     def crear_grafo(self):
         dot = Digraph(comment='Máquina de Turing de 2 Cintas')
