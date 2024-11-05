@@ -1,1 +1,10 @@
 aba*#
+abaaa*#
+abaaa*##
+abaa*#
+abaaaa*#
+aba*###
+abaa*#bba*#
+abaaa*bbaa*#
+ababba*bbaa*#
+abaaaa*aa*bba*#
