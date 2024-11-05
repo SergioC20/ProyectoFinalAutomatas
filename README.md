@@ -48,8 +48,7 @@ if __name__ == "__main__":
 
 ## Requisitos
 
-- Python 3.x
-- Librería Graphviz (instalable con `pip install graphviz`)
+- Librería Graphviz (instalable con `pip install graphviz`) para generar las imagenes del autómata
 
 ## Ejemplo de uso
 
